@@ -1,5 +1,5 @@
 # Python
-Python是机器学习中使用最多的编程语言之一，学习过程中有一些模块和语句十分常见，这里我总结了一下numpy、pandas、matplotlib的常见用法，以便于未来查找，节省时间。
+Python是机器学习中使用最多的编程语言之一，学习过程中有一些模块和语句十分常见，这里我根据看的一些教程总结了一下numpy、pandas、matplotlib的常见用法，以便于未来查找，节省时间。
 ## 模块安装
 - __常规__  
 pip install 模块名
@@ -13,4 +13,4 @@ conda install 模块名
 ## 菜鸟教程
 相信很多时候还是使用中文版的教程会更简单。
 - [numpy菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)  
-- [matploylib菜鸟教程](https://www.runoob.com/w3cnote/matplotlib-tutorial.html)  
+- [matplotlib菜鸟教程](https://www.runoob.com/w3cnote/matplotlib-tutorial.html)  
