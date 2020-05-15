@@ -6,10 +6,10 @@ pip install 模块名
 - __Anaconda__  
 conda install 模块名
 ## 官方文档
-[numpy教程](https://cs231n.github.io/python-numpy-tutorial/)这是著名的斯坦福大学李飞飞教授课题组推出的用于视觉识别的卷积神经网络教程中的一项   
-[pandas官方手册](https://pandas.pydata.org/docs/user_guide/index.html)   
-[matplotlib官方手册](https://matplotlib.org/tutorials/index.html)  
+- [numpy教程](https://cs231n.github.io/python-numpy-tutorial/)这是著名的斯坦福大学李飞飞教授课题组推出的用于视觉识别的卷积神经网络教程中的一项   
+- [pandas官方手册](https://pandas.pydata.org/docs/user_guide/index.html)   
+- [matplotlib官方手册](https://matplotlib.org/tutorials/index.html)  
 ## 菜鸟教程
 相信很多时候还是使用中文版的教程会更简单。
-[numpy菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)  
-[matploylib菜鸟教程](https://www.runoob.com/w3cnote/matplotlib-tutorial.html)  
+- [numpy菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)  
+- [matploylib菜鸟教程](https://www.runoob.com/w3cnote/matplotlib-tutorial.html)  
